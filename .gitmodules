@@ -1,0 +1,6 @@
+[submodule "lastshot_frontend"]
+	path = lastshot_frontend
+	url = https://github.com/UPT-FAING-EPIS/lastshot.git
+[submodule "lastshot_backend"]
+	path = lastshot_backend
+	url = https://github.com/UPT-FAING-EPIS/lastshotbackend.git
