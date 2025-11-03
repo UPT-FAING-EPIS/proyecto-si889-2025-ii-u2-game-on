@@ -10,19 +10,21 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *{Nombre de Proyecto}***
+**Proyecto *LastShot - Plataforma de Juegos Sociales Interactivos***
 
-Curso: *{Nombre de Asignatura}*
+Curso: *Patrones de Software*
 
-Docente: *{Nombre de Docente}*
+Docente: *Mag. Patrick Cuadros Quiroga*
 
 Integrantes:
 
-***{Apellidos y nombres del estudiante (código universitario)}***
+***Sebastián Nicolás Fuentes Avalos (2022073902)***
+***Gabriela Luzkalid Gutierrez Mamani (2022073902)***
+***Mayra Fernanda Chire Ramos (2022073902)***
 
 **Tacna – Perú**
 
-***{Año}***
+***2025***
 
 **  
 **
