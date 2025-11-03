@@ -1,8 +1,6 @@
-<center>
+![Logo de mi Cliente](Images/capicodex.png)
 
-[comment]: <img src="./media/media/image1.png" style="width:1.088in;height:1.46256in" alt="escudo.png" />
-
-![./media/media/image1.png](./media/logo-upt.png)
+![Logo UPT](Images/upt.png)
 
 **UNIVERSIDAD PRIVADA DE TACNA**
 
@@ -10,223 +8,371 @@
 
 **Escuela Profesional de Ingeniería de Sistemas**
 
-**Proyecto *LastShot - Plataforma de Juegos Sociales Interactivos***
+
+` `**<a name="_hlk212818658"></a><a name="_hlk212816530"></a>Proyecto *LastShot - Plataforma de Juegos Sociales Interactivos***
 
 Curso: *Patrones de Software*
 
-Docente: *Mag. Patrick Cuadros Quiroga*
+
+Docente: Mag. Patrick Cuadros Quiroga
+
 
 Integrantes:
 
-***Sebastián Nicolás Fuentes Avalos (2022073902)***
-***Gabriela Luzkalid Gutierrez Mamani (2022073902)***
-***Mayra Fernanda Chire Ramos (2022073902)***
+
+***SEBASTIAN NICOLAS FUENTES AVALOS		(2022073902)***
+
+***MAYRA FERNANDA CHIRE RAMOS			(2021072620)***
+
+***GABRIELA LUZKALID GUTIERREZ MAMANI 	(2022074263)***
+
+
+
+
 
 **Tacna – Perú**
 
 ***2025***
 
-**  
 **
-</center>
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-Sistema *{Nombre del Sistema}*
 
-Informe de Factibilidad
 
-Versión *{1.0}*
 
-|CONTROL DE VERSIONES||||||
+
+
+
+
+
+
+
+**Sistema <a name="_hlk212816586"></a>*LastShot - Plataforma de Juegos Sociales Interactivos***
+
+**Informe de Factibilidad**
+
+**Versión *2.0***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|<a name="_hlk212816568"></a>CONTROL DE VERSIONES||||||
 | :-: | :- | :- | :- | :- | :- |
 |Versión|Hecha por|Revisada por|Aprobada por|Fecha|Motivo|
-|1\.0|MPV|ELV|ARV|10/10/2020|Versión Original|
+|1\.0|SFA|GGM|MCR|27/09/2025|Versión Original|
+|2\.0|SFA|GGM|MCR|30/10/2025|Versión Original|
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
 # **INDICE GENERAL**
 
-[1. Descripción del Proyecto](#_Toc52661346)
 
-[2. Riesgos](#_Toc52661347)
 
-[3. Análisis de la Situación actual](#_Toc52661348)
+[1.	Descripción del Proyecto	3](#_toc52661346)
 
-[4. Estudio de Factibilidad](#_Toc52661349)
+[2.	Riesgos	3](#_toc52661347)
 
-[4.1 Factibilidad Técnica](#_Toc52661350)
+[3.	Análisis de la Situación actual	3](#_toc52661348)
 
-[4.2 Factibilidad económica](#_Toc52661351)
+[4.	Estudio de Factibilidad	3](#_toc52661349)
 
-[4.3 Factibilidad Operativa](#_Toc52661352)
+[4.1	Factibilidad Técnica	4](#_toc52661350)
 
-[4.4 Factibilidad Legal](#_Toc52661353)
+[4.2	Factibilidad económica	4](#_toc52661351)
 
-[4.5 Factibilidad Social](#_Toc52661354)
+[4.3	Factibilidad Operativa	4](#_toc52661352)
 
-[4.6 Factibilidad Ambiental](#_Toc52661355)
+[4.4	Factibilidad Legal	4](#_toc52661353)
 
-[5. Análisis Financiero](#_Toc52661356)
+[4.5	Factibilidad Social	5](#_toc52661354)
 
-[6. Conclusiones](#_Toc52661357)
+[4.6	Factibilidad Ambiental	5](#_toc52661355)
 
+[5.	Análisis Financiero	5](#_toc52661356)
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+[6.	Conclusiones	5](#_toc52661357)
 
-**<u>Informe de Factibilidad</u>**
 
-1. <span id="_Toc52661346" class="anchor"></span>**Descripción del Proyecto**
 
-    1.1. Nombre del proyecto
 
-    1.2. Duración del proyecto
 
-    1.3. Descripción
 
-        En que consiste el proyecto/importancia del mismo, contexto en que se va desenvolver
 
-    1.4. Objetivos
 
-        1.4.1 Objetivo general
-        1.4.2 Objetivos Específicos
-            Para cada objetivo específico se indicara que se va a lograr
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
 
-2. <span id="_Toc52661347" class="anchor"></span>**Riesgos**
 
-    Señale los riesgos que pudieran afectar el éxito del proyecto.}*
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+**Informe de Factibilidad**
 
-3. <span id="_Toc52661348" class="anchor"></span>**Análisis de la Situación actual**
+1. <a name="_toc52661346"></a>**Descripción del Proyecto**
+   1. **Nombre del proyecto**
 
-    3.1. Planteamiento del problema
+LastShot - Plataforma de Juegos Sociales Interactivos
 
-            Describa antecedentes y situación actual, explicando la problemática y/o necesidad que será resuelta con el proyecto propuesto.
+1. **Duración del proyecto**
 
-    3.2. Consideraciones de hardware y software
+3 meses
 
-            Hardware y software posibles para la implementación, se analizara lo que existe y es alcanzable, se evaluara que tecnología se puede > utilizar en el proyecto.
+1. **Descripción** 
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+*LastShot es una aplicación móvil multiplataforma desarrollada en Flutter que ofrece una colección de juegos sociales interactivos diseñados para fomentar la integración social en reuniones y eventos. El sistema integra autenticación de usuarios, comunicación en tiempo real mediante WebSockets, y una arquitectura backend robusta que soporta múltiples sesiones de juego simultáneas.*
 
-4. <span id="_Toc52661349" class="anchor"></span>**Estudio de
-    Factibilidad**
+**1.4 Objetivos**
 
-    Describir los resultados que esperan alcanzar del estudio de factibilidad, las actividades que se realizaron para preparar la evaluación de factibilidad y por quien fue aprobado.
+<a name="_hlk213015644"></a>       **1.4.1 Objetivo general**
 
-    4.1. <span id="_Toc52661350" class="anchor"></span>Factibilidad Técnica
+Desarrollar una plataforma móvil integral de juegos sociales interactivos que facilite la integración y entretenimiento en eventos sociales, utilizando tecnologías modernas de desarrollo móvil y comunicación en tiempo real.
 
-        El estudio de viabilidad técnica se enfoca en obtener un entendimiento de los recursos tecnológicos disponibles actualmente y su aplicabilidad a las necesidades que se espera tenga el proyecto. En el caso de tecnología informática esto implica una evaluación del hardware y software y como este puede cubrir las necesidades del sistema propuesto.
+`        `**1.4.2 Objetivos Específicos**
 
-        Realizar una evaluación de la tecnología actual existente y la posibilidad de utilizarla en el desarrollo e implantación del sistema.*
+- Implementar un sistema de juegos multijugador en tiempo real que soporte hasta 8 jugadores simultáneos con sincronización instantánea de estados de juego.
+- Desarrollar una interfaz de usuario intuitiva y atractiva utilizando Flutter que garantice una experiencia fluida en dispositivos Android e iOS.
+- Establecer una arquitectura backend escalable con Node.js y Socket.IO que maneje múltiples sesiones de juego concurrentes y gestión de usuarios.
 
-        Describir acerca del hardware (equipos, servidor), software (aplicaciones, navegadores, sistemas operativos, dominio, internet, infraestructura de red física, etc.
+1. <a name="_toc52661347"></a>**Riesgos**
+- Latencia de red: Problemas de conectividad que afecten la sincronización en tiempo real de los juegos multijugador.
+- Escalabilidad del servidor: Limitaciones en el manejo simultáneo de múltiples sesiones de juego durante picos de usuarios.
+- Compatibilidad de dispositivos: Diferencias de rendimiento entre dispositivos móviles de gama baja y alta.
+- Dependencia de servicios externos: Fallos en Firebase o servicios de hosting que interrumpan la funcionalidad.
+- Actualizaciones de plataforma: Cambios en APIs de Flutter, Android o iOS que requieran modificaciones del código.
+1. <a name="_toc52661348"></a>**Análisis de la Situación actual**
+   1. **Planteamiento del problema**
 
-    4.2. <span id="_Toc52661351" class="anchor"></span>Factibilidad Económica
+      En la actualidad, las reuniones sociales y eventos de integración a menudo carecen de actividades estructuradas que fomenten la participación activa de todos los asistentes. Los juegos tradicionales requieren materiales físicos, preparación previa y pueden ser limitados en cuanto a la cantidad de participantes. Además, muchas aplicaciones de juegos existentes se enfocan en el entretenimiento individual o competencias online con desconocidos, perdiendo el aspecto social presencial. Existe una necesidad de una solución digital que combine la comodidad de la tecnología móvil con la experiencia social de los juegos presenciales.
 
-        El propósito del estudio de viabilidad económica, es determinar los beneficios económicos del proyecto o sistema propuesto para la organización, en contraposición con los costos.
-        Como se mencionó anteriormente en el estudio de factibilidad técnica wvaluar si la institución (departamento de TI) cuenta con las herramientas necesarias para la implantación del sistema y evaluar si la propuesta requiere o no de una inversión inicial en infraestructura informática.
-        Se plantearán los costos del proyecto.
-        Costeo del Proyecto: Consiste en estimar los costos de los recursos Humanos, materiales o consumibles y/o máquinas) directos para completar las actividades del proyecto}.*
+   1. **Consideraciones de hardware y software**
 
-        Definir los siguientes costos:
+      Hardware existente disponible:
 
-        4.2.1. Costos Generales
+- Smartphones Android con capacidades estándar de conectividad
+- Servidores cloud para hosting y base de datos
+- Infraestructura de red inalámbrica estable
 
-                Los costos generales son todos los gastos realizados en accesorios y material de oficina y de uso diario, necesarios para los procesos, tales como, papeles, plumas, cartuchos de impresora, marcadores, computadora etc. Colocar tabla de costos.
+Software y tecnologías seleccionadas:
 
-        4.2.2. Costos operativos durante el desarrollo 
-        
-                Evaluar costos necesarios para la operatividad de las actividades de la empresa durante el periodo en el que se realizara el proyecto. Los costos de operación pueden ser renta de oficina, agua, luz, teléfono, etc.
+- Flutter para desarrollo multiplataforma
+- Node.js con Socket.IO para backend en tiempo real
+- Firebase para autenticación y base de datos
+- Servicios de hosting cloud (Azure/AWS)
 
-        4.2.3. Costos del ambiente
+1. <a name="_toc52661349"></a>**Estudio de Factibilidad**
+   1. <a name="_toc52661350"></a>**Factibilidad Técnica**
 
-                Evaluar si se cuenta con los requerimientos técnicos para la implantación del software como el dominio, infraestructura de red, acceso a internet, etc.
+      Hardware:
 
-        4.2.4. Costos de personal
+- Dispositivos móviles con Android 6.0+ o iOS 10+ con mínimo 2 GB de RAM
+- Procesadores ARM de gama media-baja (Snapdragon 660+ o A10 Bionic+)
+- Conectividad WiFi o datos móviles estable de al menos 5 Mbps
+- Servidor cloud con mínimo 4 vCPU y 8 GB RAM para manejo de 100+ usuarios concurrentes
+- Almacenamiento SSD de 50 GB para base de datos y archivos del sistema
 
-                Aquí se incluyen los gastos generados por el recurso humano que se necesita para el desarrollo del sistema únicamente.
+Software:
 
-                No se considerará personal para la operación y funcionamiento del sistema.
+- <a name="_hlk213015678"></a>Framework: Flutter 3.0+ para desarrollo multiplataforma
+- Backend: Node.js 18+ con Express y Socket.IO para comunicación en tiempo real
+- Base de datos: Firebase Firestore para datos de usuarios y MongoDB para logs de juegos
+- Autenticación: Firebase Authentication con soporte para email/contraseña
+- Hosting: Azure App Service o AWS EC2 para despliegue del backend
+- Sistema Operativo: Linux Ubuntu 20.04 LTS para servidores
+- Herramientas de desarrollo: VS Code, Android Studio, Xcode (para iOS)
 
-                Incluir tabla que muestra los gastos correspondientes al personal.
+La tecnología seleccionada es ampliamente adoptada, bien documentada y compatible con los requerimientos del proyecto, garantizando la viabilidad técnica de la implementación.
 
-                Indicar organización y roles. Indicar horario de trabajo del personal.
+1. <a name="_toc52661351"></a>**Factibilidad Económica**
+   1. <a name="_hlk213015393"></a>**Costos Generales** 
 
-        4.2.5.  Costos totales del desarrollo del sistema
+Estos costos incluyen gastos operativos básicos necesarios para la implementación del sistema.
 
-                {Totalizar costos y realizar resumen de costo final del proyecto y la forma de pago.
+|**Material**|**Cantidad**|**Precio Unitario**|**Total**|
+| - | - | - | - |
+|Paquete de Hojas Bond|1|S/ 6.00|S/ 6.00|
+|Lápices|3|S/ 1.60|S/ 4.80|
+|**TOTAL**| | |**S/ 10.80**|
 
-    4.3. <span id="_Toc52661352" class="anchor"></span>Factibilidad Operativa
 
-        Describir los beneficios del producto y si se tiene la capacidad por parte del cliente para mantener el sistema funcionando y garantizar el buen funcionamiento y su impacto en los usuarios. Lista de interesados.
 
-    4.4. <span id="_Toc52661353" class="anchor"></span>Factibilidad Legal
 
-        Determinar si existe conflicto del proyecto con restricciones legales como leyes y regulaciones del país o locales relacionadas con seguridad, protección de datos, conducta de negocio, empleo y adquisiciones.
 
-    4.5. <span id="_Toc52661354" class="anchor"></span>Factibilidad Social 
+Tabla 01: En Costos Generales se detallan las utilidades con sus cantidades y precios haciendo un total de S/10.80.
 
-        Evaluar influencias y asuntos de índole social y cultural como el clima político, códigos de conducta y ética*
+1. **Costos operativos durante el desarrollo** 
 
-    4.6. <span id="_Toc52661355" class="anchor"></span>Factibilidad Ambiental
+|***Concepto***|***Duración***|***Costo Mensual***|***Costo Final***|
+| - | - | - | - |
+|*Internet* |*3 meses*|*S/ 90*|*S/ 270*|
+|*Energía eléctrica*|*3 meses*|*S/ 70*|*S/ 210*|
+|***TOTAL***|* |* |***S/ 480***|
 
-        Evaluar influencias y asuntos de índole ambiental como el impacto y repercusión en el medio ambiente.
+1. **Costos del ambiente**
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+*Se evalúan costos asociados al entorno tecnológico necesario para la implementación del sistema.*
 
-5. <span id="_Toc52661356" class="anchor"></span>**Análisis Financiero**
+|<p></p><p>*CONCEPTO*</p>|*DURACIÓN*|*COSTO EN $*|*COSTO EN S/.*|
+| - | - | - | - |
+|<p>*Azure App Service (Plan Básico B1)*</p><p></p>|*12 meses*|*$104.19*|*S/. 387.61*|
+|<p>*Google Play Store (registro desarrollador)*</p><p></p>|<p>*Único*</p><p></p>|<p>*$25.00*</p><p></p>|<p>*S/. 93.00*</p><p></p>|
+|***Total***|* |***$104.19***|***S/. 480.61***|
 
-    El plan financiero se ocupa del análisis de ingresos y gastos asociados a cada proyecto, desde el punto de vista del instante temporal en que se producen. Su misión fundamental es detectar situaciones financieramente inadecuadas.
-    Se tiene que estimar financieramente el resultado del proyecto.
+1. **Costos de personal**
 
-    5.1. Justificación de la Inversión
+*Estos costos corresponden al recurso humano necesario para desarrollar e implementar el sistema de gestión. Incluirán roles como:*
+\*\
 
-        5.1.1. Beneficios del Proyecto
 
-            El beneficio se calcula como el margen económico menos los costes de oportunidad, que son los márgenes que hubieran podido obtenerse de haber dedicado el capital y el esfuerzo a otras actividades.
-            El beneficio, obtenido lícitamente, no es sólo una recompensa a la inversión, al esfuerzo y al riesgo asumidos por el empresario, sino que también es un factor esencial para que las empresas sigan en el  mercado e incorporen nuevas inversiones al tejido industrial y social de las naciones.
-            Describir beneficios tangibles e intangibles*
-            Beneficios tangibles: son de fácil cuantificación, generalmente están relacionados con la reducción de recursos o talento humano.
-            Beneficios intangibles: no son fácilmente cuantificables y están relacionados con elementos o mejora en otros procesos de la organización.
->
-            Ejemplo de beneficios:
+*●  	Desarrolladores de software para construir y mantener el sistema.*
 
-            - Mejoras en la eficiencia del área bajo estudio.
-            - Reducción de personal.
-            - Reducción de futuras inversiones y costos.
-            - Disponibilidad del recurso humano.
-            - Mejoras en planeación, control y uso de recursos.
-            - Suministro oportuno de insumos para las operaciones.
-            - Cumplimiento de requerimientos gubernamentales.
-            - Toma acertada de decisiones.
-            - Disponibilidad de información apropiada.
-            - Aumento en la confiabilidad de la información.
-            - Mejor servicio al cliente externo e interno
-            - Logro de ventajas competitivas.
-            - Valor agregado a un producto de la compañía.
-        
-        5.1.2. Criterios de Inversión
+*●  	Tester o QA para asegurar la calidad del sistema.*
 
-            5.1.2.1. Relación Beneficio/Costo (B/C)
+*●  	Diseñador UI/UX para crear una interfaz fácil de usar para el cliente y los empleados.* 
 
-                En base a los costos y beneficios identificados se evalúa si es factible el desarrollo del proyecto. 
-                Si se presentan varias alternativas de solución se evaluará cada una de ellas para determinar la mejor solución desde el punto de vista del > retorno de la inversión
-                El B/C si es mayor a uno, se acepta el proyecto; si el B/C es igual a uno es indiferente aceptar o rechazar el proyecto y si el B/C es menor a uno se rechaza el proyecto
+|*ROL*|*DURACIÓN DEL PROYECTO*|*COSTO POR MES*|*COSTO FINAL*|
+| - | - | - | - |
+|*DevOps*|*3 meses*|*S/. 1200*|*S/. 3600*|
+|*Analista de datos*|*3 meses*|*S/. 1200*|*S/. 3600*|
+|*Director de proyecto*|*3 meses*|*S/. 1300*|*S/. 3900*|
+|***Total***|* |* |***S/. 11100***|
 
-            5.1.2.2. Valor Actual Neto (VAN)
-            
-                Valor actual de los beneficios netos que genera el proyecto. Si el VAN es mayor que cero, se acepta el proyecto; si el VAN es igual a cero es indiferente aceptar o rechazar el proyecto y si el VAN es menor que cero se rechaza el proyecto
+1. **Costos totales del desarrollo del sistema** 
 
-            5.1.2.3 Tasa Interna de Retorno (TIR)*
-                Es la tasa porcentual que indica la rentabilidad promedio anual que genera el capital invertido en el proyecto. Si la TIR es mayor que el costo de oportunidad se acepta el proyecto, si la TIR es igual al costo de oportunidad es indiferente aceptar o rechazar el proyecto, si la TIR es menor que el costo de oportunidad se rechaza el proyecto
+|CONCEPTO|COSTO SOLES|
+| - | - |
+|Costos Generales|S/ 10.80|
+|Costos Operativos|S/. 480|
+|Costos de Ambiente|S/. 387.61|
+|Costos de Personal|S/. 11200|
+|Total|S/. 11,100|
 
-                Costo de oportunidad de capital (COK) es la tasa de interés que podría haber obtenido con el dinero invertido en el proyecto
 
-<div style="page-break-after: always; visibility: hidden">\pagebreak</div>
+1. <a name="_toc52661352"></a><a name="_hlk213015215"></a>**Factibilidad Operativa**
 
-6. <span id="_Toc52661357" class="anchor"></span>**Conclusiones**
+***Beneficios principales:***
 
-Explicar los resultados del análisis de factibilidad que nos indican si el proyecto es viable y factible.
+- *Facilitación de actividades de integración social sin requerir materiales físicos*
+- *Acceso instantáneo a múltiples juegos desde cualquier smartphone*
+- *Reducción de tiempo de preparación para eventos sociales*
+- *Escalabilidad automática para diferentes tamaños de grupos*
+
+***Capacidad de operación y mantenimiento:***
+
+- *Sistema autogestionado con mínima intervención manual requerida*
+- *Monitoreo automatizado de rendimiento y disponibilidad*
+- *Actualizaciones remotas sin interrumpir el servicio*
+- *Soporte técnico básico manejable por un desarrollador*
+
+***Impacto en usuarios:***
+
+- *Mejora significativa en la experiencia de eventos sociales*
+- *Reducción de la barrera de entrada para participar en juegos grupales*
+- *Fomento de la interacción social a través de mecánicas de juego innovadoras*
+
+***Interesados:***
+
+- *Organizadores de eventos sociales y corporativos*
+- *Estudiantes universitarios y grupos de amigos*
+- *Empresas que buscan actividades de team building*
+- *Desarrolladores interesados en contribuir al proyecto open source*
+
+
+1. <a name="_toc52661353"></a>**Factibilidad Legal**
+- ***Ley de Protección de Datos Personales (Ley N° 29733)**: Implementación de políticas de privacidad claras y consentimiento explícito para el tratamiento de datos personales*
+- ***Código de Protección y Defensa del Consumidor**: Términos y condiciones transparentes para el uso de la aplicación*
+- ***Ley de Delitos Informáticos (Ley N° 30096)**: Medidas de seguridad para prevenir accesos no autorizados y proteger la integridad de los datos*
+- ***Regulaciones de INDECOPI**: Cumplimiento con normas de competencia desleal y protección al consumidor digital*
+- *No existen restricciones legales específicas para aplicaciones de juegos sociales en Perú*
+- *Uso de licencias open source compatibles (MIT/Apache 2.0) para componentes de terceros*
+
+1. <a name="_toc52661354"></a>**Factibilidad Social**
+
+***Aspectos culturales peruanos:***
+
+- *Integración de elementos culturales locales en los juegos (jerga peruana, referencias culturales)*
+- *Fomento de la tradición social peruana de reuniones familiares y de amigos*
+- *Contribución a la digitalización de entretenimiento social tradicional*
+- *Promoción de la inclusión social mediante juegos accesibles para diferentes edades*
+
+***Impacto social positivo:***
+
+- *Reducción de la brecha digital en entretenimiento social*
+- *Fortalecimiento de vínculos interpersonales a través de tecnología*
+- *Generación de espacios de sana competencia y diversión*
+
+1. <a name="_toc52661355"></a>**Factibilidad Ambiental**
+
+***Impacto ambiental mínimo:***
+
+- *Reducción del uso de materiales físicos para juegos (cartas, dados, tableros)*
+- *Menor generación de residuos al digitalizar entretenimiento tradicional*
+- *Eficiencia energética mediante arquitectura cloud optimizada*
+- *Contribución indirecta a la sostenibilidad al reducir necesidad de producción de juegos físicos*
+
+***Consideraciones de sostenibilidad:***
+
+- *Uso responsable de recursos cloud para minimizar huella de carbono*
+- *Optimización de código para reducir consumo de batería en dispositivos móviles*
+- *Promoción de reutilización digital versus adquisición de juegos físicos*
+
+
+1. <a name="_toc52661356"></a>**Análisis Financiero**
+
+1. **Justificación de la Inversión**
+
+***5.1.1 Beneficios* del Proyecto**
+
+***Beneficios Tangibles***
+
+- ***Reducción de costos de entretenimiento**: Eliminación de gastos recurrentes en juegos físicos y materiales*
+- ***Ahorro de tiempo en preparación**: Setup instantáneo de juegos sin necesidad de preparación física*
+- ***Escalabilidad sin costos adicionales**: Capacidad de agregar más jugadores sin inversión extra en materiales*
+- ***Disponibilidad 24/7**: Acceso inmediato a entretenimiento social en cualquier momento y lugar*
+- ***Métricas cuantificables**: Datos precisos sobre uso, engagement y preferencias de usuarios*
+
+***Beneficios Intangibles***
+
+- ***Fortalecimiento de relaciones sociales**: Mayor cohesión grupal a través de experiencias compartidas*
+- ***Innovación en entretenimiento social**: Posicionamiento como referente en gamificación social*
+- ***Mejora en habilidades sociales**: Desarrollo de comunicación y trabajo en equipo*
+- ***Satisfacción del usuario**: Experiencias memorables y divertidas en eventos sociales*
+- ***Contribución cultural**: Preservación y modernización de tradiciones lúdicas peruanas*
+- ***Diferenciación competitiva**: Ventaja única en el mercado de entretenimiento móvil social*
+
+**5.1.2 Criterios de Inversión**
+
+`		`![Analisis Financiero](Images/analisisfinanciero.png)
+
+
+***5.1.2.1 Relación Beneficio/Costo (B/C)***
+
+*La relación Beneficio/Costo (B/C) del proyecto es de 1.05 Este ratio compara el valor presente de los beneficios con el valor presente de los costos. Un B/C mayor que 1, como en este caso, indica que los beneficios superan ampliamente los costos, lo que hace que el proyecto sea económicamente viable y atractivo para su ejecución.*
+
+`                    `***5.1.2.2 Valor Actual Neto (VAN)***
+
+*El VAN es de S/* 11,645.38*. Esto significa que después de descontar los flujos de efectivo futuros a una tasa de descuento del 10%, el valor presente neto de los ingresos esperados del proyecto es positivo. Un VAN positivo indica que el proyecto generará más valor del que cuesta, por lo tanto, es financieramente viable y debería ser considerado para su implementación.*
+
+
+***5.1.2.3 Tasa Interna de Retorno (TIR)***
+
+*La Tasa Interna de Retorno (TIR) del proyecto es de 13%, lo cual supera significativamente la tasa de descuento utilizada del 10%. Esta tasa refleja una alta rentabilidad sobre la inversión realizada. Una TIR mayor que la tasa de oportunidad indica que el proyecto no solo es viable, sino que ofrece un retorno atractivo con respecto al riesgo asumido.*
+
+1. <a name="_toc52661357"></a>**Conclusiones**
+
+<a name="_hlk213015439"></a>El análisis de factibilidad del proyecto LastShot indica que es altamente viable y factible desde múltiples perspectivas:
+
+- Técnicamente, el proyecto utiliza tecnologías maduras y ampliamente adoptadas (Flutter, Node.js, Firebase), con requerimientos de hardware accesibles y una arquitectura escalable que garantiza el éxito técnico de la implementación.
+- Económicamente, los costos de desarrollo e implementación son moderados (S/. 1,615.22 anuales para infraestructura) en comparación con los beneficios potenciales, especialmente considerando la escalabilidad del modelo digital.
+- Operativamente, la solución ofrece beneficios claros tanto para usuarios finales como para organizadores de eventos, con una propuesta de valor sólida y un impacto positivo medible en la experiencia social.
+- Legalmente, no existen barreras significativas en el contexto peruano, y el cumplimiento con las regulaciones de protección de datos y derechos del consumidor es perfectamente alcanzable.
+- Social y ambientalmente, el proyecto contribuye positivamente a la digitalización del entretenimiento social tradicional, promoviendo la inclusión y reduciendo el impacto ambiental.
+
+La convergencia de estos factores positivos, junto con la creciente adopción de soluciones móviles y la demanda de entretenimiento social digital, confirman que LastShot es un proyecto factible con alto potencial de éxito e impacto positivo en su mercado objetivo.
+4
+
